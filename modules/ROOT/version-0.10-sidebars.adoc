@@ -1,0 +1,24 @@
+* xref:index.adoc[Index]
+* Tutorials
+** xref:quickstart.adoc[Quickstart]
+** xref:tut-deployment.adoc[Tut Deployment]
+* Explanations
+** xref:architecture.adoc[Architecture]
+** xref:concepts.adoc[Concepts]
+** xref:ref-bundle-stages.adoc[Ref Bundle Stages]
+** xref:gitrepo-content.adoc[Gitrepo Content]
+** xref:namespaces.adoc[Namespaces]
+** xref:resources-during-deployment.adoc[Resources During Deployment]
+* How-tos for Operators
+** xref:multi-user.adoc[Multi User]
+* How-tos for Users
+* Reference
+** xref:ref-registration.adoc[Ref Registration]
+** xref:ref-configuration.adoc[Ref Configuration]
+** xref:ref-resources.adoc[Ref Resources]
+** xref:ref-crds.adoc[Ref Crds]
+** xref:ref-fleet-yaml.adoc[Ref Fleet Yaml]
+** xref:ref-gitrepo.adoc[Ref Gitrepo]
+** xref:ref-bundle.adoc[Ref Bundle]
+* xref:troubleshooting.adoc[Troubleshooting]
+* Changelog
